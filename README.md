@@ -8,8 +8,7 @@
 - 🌱 I’m currently learning **.Net Core, Fishnet, Playfab, DI (IOC) MVC S.O.L.I.D **
 - 💬 Ask me about **Unity, C#**
 - 📫 How to reach me **adnanshaukat.uol@gmail.com**
-- 👨‍💻 All of my projects are available at **https://devtree.app/Adnan**
-- 📄 Know about my experiences **https://devtree.app/Adnan**
+- 🤖 Check out my AI portfolio **https://adnanshaukat.dev/ai**
 
 <div> <a href="https://twitter.com/adnanshaukatuol" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
 <a href="https://www.linkedin.com/in/adnan-shaukat-96993599/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
